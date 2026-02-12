@@ -1,78 +1,66 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/124548837/231796039-ba9111f4-6763-4111-9d8a-c3899c130e94.gif" 
-       width="100%" 
-       style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0,0,0,0.8); border: 1px solid #30363d;" 
-       alt="Shawpon Banner">
+# Hi — I’m **Shawpon** (Shawpon2)
 
-  <br />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/124548837/231796039-ba9111f4-6763-4111-9d8a-c3899c130e94.gif"
+       alt="Shawpon — Automation Architect & Security Engineer"
+       width="480"
+       style="border-radius: 20px; box-shadow: 0 12px 40px rgba(0,0,0,0.3); border: 2px solid rgba(255,255,255,0.1);">
+</p>
 
-  <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-bottom: none;">
-    <span style="color: #79c0ff;">I'm</span> <strong>Shawpon</strong> 
-    <sub style="font-size: 0.4em; color: #8b949e;">(Shawpon2)</sub>
-  </h1>
-
-  <a href="https://github.com/Shawpon2">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Automation+Engineer;Security+Researcher+%26+Developer;PyPI+Package+Maintainer;Termux+Systems+Architect" alt="Shawpon's Expertise">
-  </a>
-
-  <br />
-
-  <p align="center">
-    <a href="https://github.com/Shawpon2"><img src="https://img.shields.io/badge/GIT-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:githubshawpon@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.facebook.com/shawpon.spshawpon"><img src="https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="https://pypi.org/user/Shawpon2/"><img src="https://img.shields.io/badge/PYPI-Releases-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
-  </p>
-</div>
+> I engineer production-grade automation tooling, CLI utilities, and educational security resources with uncompromising attention to reliability, documentation, and secure-by-default architecture.
 
 ---
 
-### 🔭 **Strategic Overview**
+### 🔥 Quick facts
+- **Roles:** Developer · Automation Architect · Security Researcher  
+- **Focus:** CLI/UX design, Termux workflows, async automation, security tooling  
+- **Languages / Tools:** Python, Bash, Git, Linux, FastAPI, Redis, Selenium, Postman, Regex
 
-I bridge the gap between complex security protocols and seamless automation. My work focuses on building **production-grade CLI tools**, high-concurrency **async frameworks**, and optimized **terminal environments** (Termux).
-
-* **⚡ Current Focus:** Scaling the `bsb-havoc` core engine for enterprise-level automation.
-* **🛡️ Security Mindset:** Implementing "Secure-by-Default" architectures in all open-source scripts.
-* **🛠️ Contribution:** Active maintainer of terminal-based utility ecosystems.
-
----
-
-### 🛡️ **Technical Arsenal**
-
-<div align="center">
-
-| **Core Engineering** | **Automation & DevSecOps** | **Systems & Environment** |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=linux&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/AsyncIO-blue?style=flat-square&logo=python" /> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/Security_Audit-E34F26?style=flat-square" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
-
-</div>
+<p align="center">
+  <!-- Primary action badges -->
+  <a href="https://pypi.org/project/bsb-havoc/" target="_blank"><img src="https://img.shields.io/badge/⚡_INSTALL_bsb--havoc-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-havoc"></a>
+  <a href="https://pypi.org/project/bsb-2025/" target="_blank"><img src="https://img.shields.io/badge/⚡_INSTALL_bsb--2025-4EAA25?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-2025"></a>
+  <a href="https://github.com/Shawpon2?tab=stars" target="_blank"><img src="https://img.shields.io/badge/★_STARRED_REPOS-F7DF1E?style=for-the-badge&logo=github&logoColor=black" alt="Starred repos"></a>
+</p>
 
 ---
 
-### 📦 **Featured Ecosystems**
+## ⚡ Core Competencies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,linux,termux,selenium,fastapi,redis,postman,regex" alt="skill icons">
+</p>
 
-My PyPI packages are built for speed, reliability, and modern developer experience (UX).
-
-| Project | Live Status | Impact |
-| :--- | :--- | :--- |
-| **[bsb-havoc](https://pypi.org/project/bsb-havoc/)** | ![PyPI](https://img.shields.io/pypi/v/bsb-havoc?style=flat-square&logo=pypi&color=58a6ff) | **High-Concurrency** async automation engine. |
-| **[bsb-2025](https://pypi.org/project/bsb-2025/)** | ![PyPI](https://img.shields.io/pypi/v/bsb-2025?style=flat-square&logo=pypi&color=39d353) | **Modern Workflow** toolkit & developer utility. |
-| **Termux-Pro-Setup** | ![GitHub Stars](https://img.shields.io/github/stars/Shawpon2/Termux-Pro-Setup?style=flat-square&color=f1e05a) | Automated **Dev-Environment** configuration. |
+- CLI/UX design · Termux workflows · Async automation · Security tooling  
+- Production-quality docs, secure-by-default architecture, automation at scale
 
 ---
 
-### ⚙️ **Performance Benchmarking**
+## 📦 Flagship Projects
 
-```python
-# Example of the 'bsb-havoc' async primitive architecture
-from bsb_havoc import AsyncRunner
+### 🔥 bsb-havoc
+**async CLI framework · high-performance automation**  
+`pip install bsb-havoc`  
+(Repository: GitHub / Docs / Issues / PyPI badge links)
 
-async def execute_secure_pipeline(data):
-    # Logic for high-speed automated security audit
-    return await process(data)
+### ⚙️ bsb-2025
+**workflow toolkit · automation utilities**  
+`pip install bsb-2025`  
+(Repository: GitHub / Docs / Issues / PyPI badge links)
 
-# Launching with optimized concurrency
-runner = AsyncRunner(concurrency=100)
-results = await runner.run_all(tasks)
+### 📱 Termux-Pro-Setup
+Dotfiles + fully automated Termux environment — zero config, instant productivity.
+
+---
+
+## ⚡ Zero-to-Hero Setup
+
+```bash
+# 1. Create isolated environment (best practice)
+python -m venv ~/.venv/shawpon
+source ~/.venv/shawpon/bin/activate
+
+# 2. Upgrade core tools
+pip install --upgrade pip setuptools wheel
+
+# 3. Install flagship packages
+pip install bsb-havoc bsb-2025
