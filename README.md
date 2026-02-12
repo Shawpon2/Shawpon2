@@ -1,247 +1,163 @@
+<!--───────────────────────────────────────────────────────────────────
+  ███████╗██╗  ██╗ █████╗ ██╗    ██╗██████╗  ██████╗ ███╗   ██╗
+  ██╔════╝██║  ██║██╔══██╗██║    ██║██╔══██╗██╔═══██╗████╗  ██║
+  ███████╗███████║███████║██║ █╗ ██║██████╔╝██║   ██║██╔██╗ ██║
+  ╚════██║██╔══██║██╔══██║██║███╗██║██╔═══╝ ██║   ██║██║╚██╗██║
+  ███████║██║  ██║██║  ██║╚███╔███╔╝██║     ╚██████╔╝██║ ╚████║
+  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝      ╚═════╝ ╚═╝  ╚═══╝
+─────────────────────────────────────────────────────────────────────
+  PROFESSIONAL · MODERN · STYLISH · PRODUCTION‑READY
+───────────────────────────────────────────────────────────────────-->
+
 <p align="center">
+  <!-- HERO ANIMATION – PREMIUM VISUAL IDENTITY -->
   <img src="https://user-images.githubusercontent.com/124548837/231796039-ba9111f4-6763-4111-9d8a-c3899c130e94.gif"
-       alt="Shawpon — Developer & Automation Engineer"
-       width="640"
-       style="border-radius:18px; box-shadow: 0 14px 60px rgba(2,6,23,0.45)">
-</p><h1 align="center">
-  Hi — I’m <strong style="font-size:68px;">Shawpon</strong>
-  <sub style="font-size:20px;">(<em>Shawpon2</em>)</sub>
-</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=700&color=2b2f3a&width=920&lines=Developer+%E2%9A%99%EF%B8%8F+%7C+Automation+%7C+Termux+%7C+Security+%7C+Open+Source"
-       alt="Typing animation: Developer • Automation • Termux • Security • Open Source">
-</p><p align="center">
-  <!-- Primary contact & platform badges -->
+       alt="Shawpon — Automation Architect & Security Engineer"
+       width="480"
+       style="border-radius: 20px; box-shadow: 0 12px 40px rgba(0,0,0,0.3); border: 2px solid rgba(255,255,255,0.1);">
+</p>
+
+<!-- TITLE WITH CUSTOM TYPOGRAPHY + GLOW EFFECT -->
+<h1 align="center" style="font-size: 64px; margin: 20px 0 0 0; letter-spacing: -0.5px; text-shadow: 0 0 12px rgba(0,200,255,0.4);">
+  Hi — I’m <strong style="background: linear-gradient(45deg, #6a11cb, #2575fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 70px;">Shawpon</strong>
+  <sub style="font-size: 28px; font-weight: 300; color: #b0b0b0; text-shadow: none;">(<em style="color:#9f9f9f;">Shawpon2</em>)</sub>
+</h1>
+
+<!-- TYPING ANIMATION – ELEVATED BADGE STYLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C7FF&center=true&vCenter=true&width=1000&lines=Developer+%E2%9A%99%EF%B8%8F;Automation+Architect+%F0%9F%94%A7;Termux+Specialist+%F0%9F%93%B1;Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+CLI+%7C+DevOps;Always+building+%E2%9C%A8"
+       alt="Typing animation: Developer, Automation, Termux, Security, Python, CLI, DevOps">
+</p>
+
+<!-- ------------------------------------------------------------------
+     PRIMARY CONNECT BADGES – LARGE, CLEAN, ACTION‑ORIENTED
+     ------------------------------------------------------------------- -->
+<p align="center">
   <a href="https://github.com/Shawpon2" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0e0e0e">
   </a>
   <a href="https://www.facebook.com/shawpon.spshawpon" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a5c9e">
+  </a>
+  <a href="https://www.facebook.com/black.spammar.bd" target="_blank">
+    <img src="https://img.shields.io/badge/FB_Page-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2f4a7a">
+  </a>
+  <a href="https://facebook.com/groups/black.spammar.bd/" target="_blank">
+    <img src="https://img.shields.io/badge/FB_Group-0A66C2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=074785">
   </a>
   <a href="mailto:githubshawpon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=a52323">
   </a>
 </p>
----
 
-🔎 Professional Snapshot
+<!-- ------------------------------------------------------------------
+     EXECUTIVE SUMMARY – BOLD, CONCISE, CONFIDENT
+     ------------------------------------------------------------------- -->
+<br>
 
-I build production-grade automation tools, modern CLI experiences, and educational security resources with a strong emphasis on reliability, clear documentation, and secure-by-default defaults.
+## 🔥 Professional Profile
 
-Core competencies
+<div align="center" style="border-left: 8px solid #00C7FF; padding-left: 24px; margin: 32px 0; max-width: 900px; margin-left: auto; margin-right: auto; text-align: left; background: rgba(0,199,255,0.02); border-radius: 0 16px 16px 0;">
 
-CLI / UX design • Termux & terminal workflows • Python scripting • Security tooling • Async automation • Tooling for maintainers
+**I engineer production‑grade automation tooling, CLI utilities, and educational security resources with uncompromising attention to reliability, documentation, and secure‑by‑default architecture.**
 
+</div>
 
----
+<!-- CORE COMPETENCIES – SKILL GRID (skillicons.dev) -->
+<h3 align="center">⚡ Core Competencies ⚡</h3>
 
-✨ What I make
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,linux,termux,selenium,fastapi,redis,postman,regex" />
+  </a>
+</p>
 
-bsb-havoc — High-performance CLI helpers & async automation framework (PyPI package).
+<p align="center" style="font-size: 18px; color: #ccc;">
+  <code>CLI/UX design</code> • <code>Termux workflows</code> • <code>Async automation</code> • <code>Security tooling</code>
+</p>
 
-bsb-2025 — Workflow automation toolkit and utility scripts.
+<br>
 
-Termux-Pro-Setup — Dotfiles + fully automated Termux environment installer.
-
-
-> Want to try: pip install bsb-havoc bsb-2025 or explore the repos below.
-
-
-
-
----
-
-🧰 Quick Actions
-
+<!-- ------------------------------------------------------------------
+     IMMEDIATE ACTIONS – HERO CTA BUTTONS
+     ------------------------------------------------------------------- -->
 <p align="center">
   <a href="https://pypi.org/project/bsb-havoc/" target="_blank">
-    <img src="https://img.shields.io/badge/Install-bsb--havoc-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-havoc">
+    <img src="https://img.shields.io/badge/⚡_INSTALL_bsb--havoc-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1f4a6e" width="320">
   </a>
   <a href="https://pypi.org/project/bsb-2025/" target="_blank">
-    <img src="https://img.shields.io/badge/Install-bsb--2025-4EAA25?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-2025">
+    <img src="https://img.shields.io/badge/⚡_INSTALL_bsb--2025-4EAA25?style=for-the-badge&logo=python&logoColor=white&labelColor=2f6a1a" width="320">
   </a>
   <a href="https://github.com/Shawpon2?tab=stars" target="_blank">
-    <img src="https://img.shields.io/badge/★-Starred_Repos-F7DF1E?style=for-the-badge&logo=github" alt="Starred repositories">
+    <img src="https://img.shields.io/badge/★_STARRED_REPOS-F7DF1E?style=for-the-badge&logo=github&logoColor=black&labelColor=dbb80b" width="280">
   </a>
 </p>
----
 
-📂 Featured Projects & Packages
+<br>
 
-🔸 Core Python Packages
+<!-- ------------------------------------------------------------------
+     FEATURED PROJECTS – REPO CARDS + PYPI PACKAGES (PREMIUM LAYOUT)
+     ------------------------------------------------------------------- -->
 
-Package	What it does	Install
+## 📦 Flagship Projects
 
-bsb-havoc	High-performance CLI helpers & async automation framework	pip install bsb-havoc
-bsb-2025	Workflow automation toolkit — helper scripts and utilities	pip install bsb-2025
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top" style="padding: 16px; background: #0d1117; border-radius: 18px; border: 1px solid #30363d;">
+        <h3 align="center">🔥 bsb‑havoc</h3>
+        <p align="center"><strong>async CLI framework · high‑performance automation</strong></p>
+        <p align="center">
+          <code>pip install bsb-havoc</code>
+        </p>
+        <p align="center">
+          <a href="#"><img src="https://img.shields.io/badge/📖_Docs-8A2BE2?style=flat-square"></a>
+          <a href="#"><img src="https://img.shields.io/badge/🐞_Issues-238636?style=flat-square"></a>
+          <a href="#"><img src="https://img.shields.io/badge/⭐_Star-FFD700?style=flat-square"></a>
+        </p>
+        <!-- EXAMPLE CARD – REPLACE WITH ACTUAL REPO CARD -->
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawpon2&repo=bsb-havoc&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C7FF&icon_color=00C7FF" width="100%">
+      </td>
+      <td width="50%" valign="top" style="padding: 16px; background: #0d1117; border-radius: 18px; border: 1px solid #30363d;">
+        <h3 align="center">⚙️ bsb‑2025</h3>
+        <p align="center"><strong>workflow toolkit · automation utilities</strong></p>
+        <p align="center">
+          <code>pip install bsb-2025</code>
+        </p>
+        <p align="center">
+          <a href="#"><img src="https://img.shields.io/badge/📖_Docs-8A2BE2?style=flat-square"></a>
+          <a href="#"><img src="https://img.shields.io/badge/🐞_Issues-238636?style=flat-square"></a>
+          <a href="#"><img src="https://img.shields.io/badge/⭐_Star-FFD700?style=flat-square"></a>
+        </p>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawpon2&repo=bsb-2025&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C7FF&icon_color=00C7FF" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top: 24px;">
+        <h3>📱 Termux‑Pro‑Setup</h3>
+        <p><em>Dotfiles + fully automated Termux environment — zero config, instant productivity.</em></p>
+        <a href="#"><img src="https://img.shields.io/badge/📂_View_Repository-24292e?style=for-the-badge&logo=github"></a>
+      </td>
+    </tr>
+  </table>
+  <p><sub>⚠️ <strong>Note:</strong> Replace the placeholder repo links with your actual URLs to enable live cards.</sub></p>
+</div>
 
+<br>
 
-🔹 Representative Repositories
+<!-- ------------------------------------------------------------------
+     INSTALLATION & USAGE – CLEAN, COPY‑PASTE READY
+     ------------------------------------------------------------------- -->
 
-Project	Focus	Link
+## ⚡ Zero‑to‑Hero Setup
 
-bsb-havoc	Async tooling, CLI UX, and helpers	Repo
-bsb-2025	Workflow scripts, utilities, templates	Repo
-Termux-Pro-Setup	Dotfiles + automated Termux setup	Repo
+```bash
+# 1. Create isolated environment (best practice)
+python -m venv ~/.venv/shawpon
+source ~/.venv/shawpon/bin/activate
 
+# 2. Upgrade core tools
+pip install --upgrade pip setuptools wheel
 
-> ✅ Pro tip: Replace the placeholder [#] links above with your actual repository URLs.
-
-
-
-
----
-
-⚙️ Installation & Quickstart
-
-Create an isolated environment and install packages:
-
-# Create an isolated environment (recommended)
-python -m venv ~/.venv/bsb
-source ~/.venv/bsb/bin/activate
-
-# Upgrade pip and install tools
-pip install --upgrade pip
+# 3. Install flagship packages
 pip install bsb-havoc bsb-2025
-
-CLI — quick usage example (bsb-havoc)
-
-# show help
-bsb-havoc --help
-
-# run a sample async task
-bsb-havoc run sample-task --concurrency 6
-
-(Include real command names and examples relevant to your packages.)
-
-
----
-
-🧩 Why this repo pattern
-
-I follow patterns that make developer tools easy to install, safe to use, and pleasant to maintain:
-
-clear CLI UX and sane defaults
-
-robust async primitives where performance matters
-
-automated tests and CI for reliability
-
-docs + examples that reduce onboarding time
-
-
-
----
-
-🧪 Example Code Snippet
-
-# Example: basic async worker using bsb-havoc primitives
-import asyncio
-from bsb_havoc import AsyncRunner
-
-async def job(x):
-    await asyncio.sleep(0.1)
-    return x * 2
-
-async def main():
-    runner = AsyncRunner(concurrency=8)
-    results = await runner.map(job, range(50))
-    print(results[:10])
-
-if __name__ == '__main__':
-    asyncio.run(main())
-
-
----
-
-📣 Best Practices & Security
-
-Secure-by-default: avoid hard-coded secrets; prefer environment variables and key stores.
-
-Least privilege: run scripts with limited permissions unless elevated access is required.
-
-Dependency hygiene: pin top-level app dependencies, audit transitive deps regularly.
-
-CI checks: static analysis, linting, and test coverage on PRs.
-
-
-
----
-
-🚀 Roadmap
-
-v0.2 — improved CLI experience, extensible plugin system, better docs (Q2)
-
-v0.3 — templates + common automation blueprints (Q3)
-
-v1.0 — stable API, official release, expanded test matrix (Q4)
-
-
-(Adjust roadmap milestones & dates to match your plan.)
-
-
----
-
-📚 Documentation & Support
-
-Documentation: add a /docs site or GitHub Pages link.
-
-Issues & feature requests: use GitHub Issues.
-
-For consults / paid work: email githubshawpon@gmail.com.
-
-
-
----
-
-🤝 Contributing
-
-Contributions are welcome — please follow this flow:
-
-1. Fork the repo
-
-
-2. Open a feature branch: git checkout -b feat/your-feature
-
-
-3. Add tests + docs
-
-
-4. Open a PR with a clear description
-
-
-
-Include CONTRIBUTING.md in repo with code style / PR checklist.
-
-
----
-
-🧾 License
-
-This project is normally licensed under the MIT License — add LICENSE file with your preferred license.
-
-
----
-
-📬 Contact
-
-GitHub: @Shawpon2
-
-Email: githubshawpon@gmail.com
-
-
-
----
-
-📊 GitHub Stats (optional)
-
-You can include dynamic cards in your README to show usage and top languages. Example:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shawpon2&show_icons=true&theme=radical" alt="GitHub Stats" width="460"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawpon2&layout=compact&theme=radical" alt="Top Languages" width="460"/>
-</p>
-
-
----
-
-> If you want a dark/glass theme variant, a Bangla-translated version, or a ready-to-paste GitHub-ready file with all real repo links and badges filled, tell me which variant and I will update the canvas accordingly.
