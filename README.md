@@ -71,7 +71,7 @@ Developer Experience Optimization
   <a href="https://pypi.org/project/bsb-2025/">
     <img src="https://img.shields.io/badge/Install%20bsb--2025-16A34A?style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://github.com/Shawpon2/bsb-2025">
+  <a href="https://github.com/BlackSpammerBd/bsb_2025">
     <img src="https://img.shields.io/badge/View%20Source-111827?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -83,7 +83,7 @@ Developer Experience Optimization
 # 🖥 TERMUX PROFESSIONAL ENVIRONMENT
 
 <p align="center">
-  <a href="https://github.com/Shawpon2/termux-pro-setup">
+  <a href="https://github.com/Shawpon2/Maxx">
     <img src="https://img.shields.io/badge/Termux%20Pro%20Setup-000000?style=for-the-badge&logo=gnu-bash">
   </a>
 </p>
