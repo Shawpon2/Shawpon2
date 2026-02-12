@@ -1,66 +1,58 @@
-# Hi — I’m **Shawpon** (Shawpon2)
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/124548837/231796039-ba9111f4-6763-4111-9d8a-c3899c130e94.gif"
-       alt="Shawpon — Automation Architect & Security Engineer"
-       width="480"
-       style="border-radius: 20px; box-shadow: 0 12px 40px rgba(0,0,0,0.3); border: 2px solid rgba(255,255,255,0.1);">
+  <img src="https://user-images.githubusercontent.com/124548837/231796039-ba9111f4-6763-4111-9d8a-c3899c130e94.gif" alt="Shawpon – developer & automation engineer" width="420" style="border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
 </p>
 
-> I engineer production-grade automation tooling, CLI utilities, and educational security resources with uncompromising attention to reliability, documentation, and secure-by-default architecture.
-
----
-
-### 🔥 Quick facts
-- **Roles:** Developer · Automation Architect · Security Researcher  
-- **Focus:** CLI/UX design, Termux workflows, async automation, security tooling  
-- **Languages / Tools:** Python, Bash, Git, Linux, FastAPI, Redis, Selenium, Postman, Regex
+<h1 align="center">
+  Hi — I'm <strong>Shawpon</strong> <sub style="font-size:1.8rem;">(Shawpon2)</sub>
+</h1>
 
 <p align="center">
-  <!-- Primary action badges -->
-  <a href="https://pypi.org/project/bsb-havoc/" target="_blank"><img src="https://img.shields.io/badge/⚡_INSTALL_bsb--havoc-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-havoc"></a>
-  <a href="https://pypi.org/project/bsb-2025/" target="_blank"><img src="https://img.shields.io/badge/⚡_INSTALL_bsb--2025-4EAA25?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-2025"></a>
-  <a href="https://github.com/Shawpon2?tab=stars" target="_blank"><img src="https://img.shields.io/badge/★_STARRED_REPOS-F7DF1E?style=for-the-badge&logo=github&logoColor=black" alt="Starred repos"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=800&color=2B2F3A&width=860&lines=Developer+%E2%9A%99%EF%B8%8F+%7C+Automation+%7C+Termux+%7C+Security+Tooling" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shawpon2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.facebook.com/shawpon.spshawpon"><img src="https://img.shields.io/badge/Facebook%20Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile"></a>
+  <a href="https://www.facebook.com/black.spammar.bd"><img src="https://img.shields.io/badge/Facebook%20Page-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Page"></a>
+  <a href="https://facebook.com/groups/black.spammar.bd/"><img src="https://img.shields.io/badge/Facebook%20Group-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Group"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## ⚡ Core Competencies
+## 📌 Professional Summary
+
+I build production‑grade automation tools, CLI utilities, and educational security software. My work prioritizes **reliability**, **clear documentation**, and **secure‑by‑default design**. I maintain several Python packages and actively contribute to the Termux ecosystem.
+
+**Core expertise:**  
+`CLI UX` · `Terminal/Termux workflows` · `Python scripting` · `Secure design patterns`
+
+---
+
+## ⚡ Featured Projects & Packages
+
+| Project | Description | Install / Repo |
+|--------|-------------|----------------|
+| **[bsb‑havoc](https://pypi.org/project/bsb-havoc/)** | High‑performance async CLI helpers & automation toolkit | `pip install bsb-havoc`<br>[PyPI](https://pypi.org/project/bsb-havoc/) · [Repo →](https://github.com/Shawpon2/bsb-havoc) |
+| **[bsb‑2025](https://pypi.org/project/bsb-2025/)** | General‑purpose workflow utilities and scripts | `pip install bsb-2025`<br>[PyPI](https://pypi.org/project/bsb-2025/) · [Repo →](https://github.com/Shawpon2/bsb-2025) |
+| **Termux‑Pro‑Setup** | Dotfiles & automated environment bootstrapper for Termux | [Repo →](https://github.com/Shawpon2/termux-pro-setup) |
+
+> 🔗 *GitHub repository links for the packages above are placeholders – replace with your actual URLs.*
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,linux,termux,selenium,fastapi,redis,postman,regex" alt="skill icons">
+  <a href="https://pypi.org/project/bsb-havoc/"><img src="https://img.shields.io/badge/Install%20bsb--havoc-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-havoc"></a>
+  <a href="https://pypi.org/project/bsb-2025/"><img src="https://img.shields.io/badge/Install%20bsb--2025-4EAA25?style=for-the-badge&logo=python&logoColor=white" alt="Install bsb-2025"></a>
 </p>
 
-- CLI/UX design · Termux workflows · Async automation · Security tooling  
-- Production-quality docs, secure-by-default architecture, automation at scale
-
 ---
 
-## 📦 Flagship Projects
-
-### 🔥 bsb-havoc
-**async CLI framework · high-performance automation**  
-`pip install bsb-havoc`  
-(Repository: GitHub / Docs / Issues / PyPI badge links)
-
-### ⚙️ bsb-2025
-**workflow toolkit · automation utilities**  
-`pip install bsb-2025`  
-(Repository: GitHub / Docs / Issues / PyPI badge links)
-
-### 📱 Termux-Pro-Setup
-Dotfiles + fully automated Termux environment — zero config, instant productivity.
-
----
-
-## ⚡ Zero-to-Hero Setup
+## 🛠️ Quick Start
 
 ```bash
-# 1. Create isolated environment (best practice)
-python -m venv ~/.venv/shawpon
-source ~/.venv/shawpon/bin/activate
+# Create isolated environment (recommended)
+python -m venv ~/.venv/bsb
+source ~/.venv/bsb/bin/activate
 
-# 2. Upgrade core tools
-pip install --upgrade pip setuptools wheel
-
-# 3. Install flagship packages
+# Upgrade pip and install packages
+pip install --upgrade pip
 pip install bsb-havoc bsb-2025
