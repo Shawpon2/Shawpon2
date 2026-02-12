@@ -1,87 +1,77 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/184462307?v=4" alt="Shawpon Avatar" width="150" height="150" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.5);">
-  
-  <br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Shawpon%20Dev&fontSize=70&animation=fadeIn" alt="Header" />
+</p>
 
-  <h1>Hi there, I'm <span style="color: #38BDF8;">Shawpon</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  
-  <a href="https://github.com/Shawpon2">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;Automation+Expert+%E2%9A%99%EF%B8%8F;Termux+Enthusiast+%F0%9F%93%B1;Security+Tooling+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/184462307?v=4" width="180" style="border-radius:50%; border: 4px solid #2b2f3a;">
+</p>
 
-<div align="center">
-  
-  <a href="https://github.com/Shawpon2">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/shawpon.spshawpon">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="mailto:githubshawpon@gmail">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://facebook.com/groups/black.spammar.bd/">
-    <img src="https://img.shields.io/badge/Join_Community-00C7B7?style=for-the-badge&logo=google-groups&logoColor=white">
-  </a>
+<h1 align="center">
+  Greetings, I'm <strong>Shawpon</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
+</h1>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5399FF&center=true&vCenter=true&width=860&lines=Full-Stack+Automation+Engineer;Python+Package+Maintainer;Termux+Workflow+Architect;Security+Tooling+Specialist" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shawpon2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:githubshawpon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/shawpon.spshawpon"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      
-      ## 👨‍💻 About Me
-      
-      I am a passionate **Automation Engineer** and **Python Developer** specializing in creating robust CLI tools and security utilities. My mission is to simplify complex workflows specifically for **Termux** and **Linux** environments.
-      
-      * 🔭 I’m currently working on **Advanced BSB Toolkits**
-      * 🌱 I’m currently learning **Cybersecurity & Reverse Engineering**
-      * ⚡ **Core Power:** Python, Bash, Automation
-      * 📫 **Goal:** Making open-source tools accessible for everyone.
+### 🚀 About Me
 
-    </td>
-    <td width="5%"></td>
-    <td width="35%" valign="top">
-      
-      ## 🛠 Tech Stack
-      
-      <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=guard&logoColor=white" />
-      </p>
+I am a **Dedicated Automation Engineer** specializing in building production-grade CLI utilities and high-performance Python ecosystems. My philosophy centers on **"Automate the Boring, Secure the Rest."**
 
-    </td>
-  </tr>
-</table>
+- 🛠️ Currently architecting **BSB-Havoc** for high-concurrency automation.
+- 🛡️ Passionate about **Secure-by-Design** principles.
+- 📱 Expert in **Termux environment optimization** and mobile-first development.
+- 🔭 Contributing to the open-source community via **[BlackSpammerBD](https://facebook.com/groups/black.spammar.bd/)**.
 
 ---
 
-## 🚀 Featured Packages
+### 🛠️ Tech Stack & Ecosystem
 
-I maintain high-performance Python libraries for automation.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AsyncIO-blue?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-| Package | Description | PyPI Status | Action |
-| :--- | :--- | :---: | :---: |
-| **`bsb-havoc`** | High-performance async CLI helpers & automation toolkit | [![PyPI](https://img.shields.io/pypi/v/bsb-havoc?color=blue)](https://pypi.org/project/bsb-havoc/) | [**View Repo**](https://github.com/Shawpon2/bsb-havoc) |
-| **`bsb-2025`** | Next-gen workflow utilities and security scripts | [![PyPI](https://img.shields.io/pypi/v/bsb-2025?color=green)](https://pypi.org/project/bsb-2025/) | [**View Repo**](https://github.com/Shawpon2/bsb-2025) |
+---
 
-<br>
+### 📦 Featured Projects
 
-### ⚡ Quick Installation
-Copy and paste this into your terminal to get started immediately:
+| Project | Status | Description |
+| :--- | :---: | :--- |
+| **[bsb-havoc](https://pypi.org/project/bsb-havoc/)** | `Stable` | Async-driven CLI automation framework for heavy workloads. |
+| **[bsb-2025](https://pypi.org/project/bsb-2025/)** | `Active` | A versatile toolkit for modern terminal-based workflows. |
+| **Termux-Pro-Setup** | `Pro` | One-click script to transform Termux into a pro dev environment. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shawpon2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawpon2&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawpon2&theme=tokyonight&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 📥 Installation Quickstart
 
 ```bash
-# Update environment & install tools
-pkg update && pkg upgrade -y
+# Level up your terminal with my core packages
 pip install --upgrade pip
-
-# Install official packages
 pip install bsb-havoc bsb-2025
