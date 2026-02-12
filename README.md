@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/124548837/231796039-ba9111f4-6763-4111-9d8a-c3899c130e94.gif" alt="Shawpon – developer & automation engineer" width="420" style="border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+  <img src="https://avatars.githubusercontent.com/u/184462307?v=4" alt="Shawpon – developer & automation engineer" width="420" style="border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
 </p>
 
 <h1 align="center">
@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/shawpon.spshawpon"><img src="https://img.shields.io/badge/Facebook%20Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile"></a>
   <a href="https://www.facebook.com/black.spammar.bd"><img src="https://img.shields.io/badge/Facebook%20Page-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Page"></a>
   <a href="https://facebook.com/groups/black.spammar.bd/"><img src="https://img.shields.io/badge/Facebook%20Group-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Group"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:githubshawpon@gmail"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ I build production‑grade automation tools, CLI utilities, and educational secu
 | Project | Description | Install / Repo |
 |--------|-------------|----------------|
 | **[bsb‑havoc](https://pypi.org/project/bsb-havoc/)** | High‑performance async CLI helpers & automation toolkit | `pip install bsb-havoc`<br>[PyPI](https://pypi.org/project/bsb-havoc/) · [Repo →](https://github.com/Shawpon2/bsb-havoc) |
-| **[bsb‑2025](https://pypi.org/project/bsb-2025/)** | General‑purpose workflow utilities and scripts | `pip install bsb-2025`<br>[PyPI](https://pypi.org/project/bsb-2025/) · [Repo →](https://github.com/Shawpon2/bsb-2025) |
+| **[bsb‑2025](https://github.com/BlackSpammerBd/bsb_2025)** | General‑purpose workflow utilities and scripts | `pip install bsb-2025`<br>[PyPI](https://pypi.org/project/bsb-2025/) · [Repo →](https://github.com/Shawpon2/bsb-2025) |
 | **Termux‑Pro‑Setup** | Dotfiles & automated environment bootstrapper for Termux | [Repo →](https://github.com/Shawpon2/termux-pro-setup) |
 
 > 🔗 *GitHub repository links for the packages above are placeholders – replace with your actual URLs.*
@@ -49,10 +49,6 @@ I build production‑grade automation tools, CLI utilities, and educational secu
 ## 🛠️ Quick Start
 
 ```bash
-# Create isolated environment (recommended)
-python -m venv ~/.venv/bsb
-source ~/.venv/bsb/bin/activate
-
 # Upgrade pip and install packages
 pip install --upgrade pip
 pip install bsb-havoc bsb-2025
